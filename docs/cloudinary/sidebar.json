@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Cloudinary Connector",
+    "items": [
+      { "text": "Overview",      "link": "/cloudinary/" },
+      { "text": "Installation",  "link": "/cloudinary/installation" }
+    ]
+  },
+
+  {
+    "text": "Usage | Cloudinary",
+    "items": [
+      { "text": "Configuration", "link": "/cloudinary/configuration" },
+      { "text": "Media Synchronization", "link": "/cloudinary/media-sync" },
+      { "text": "Import & Export", "link": "/cloudinary/import-export" },
+      { "text": "REST API", "link": "/cloudinary/api" }
+    ]
+  },
+
+  {
+    "text": "Support",
+    "items": [
+      { "text": "Contact Support", "link": "/cloudinary/contact-support" }
+    ]
+  }
+]
